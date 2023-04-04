@@ -1,3 +1,2 @@
 # TicTacToe-in-Python
-a random repository which contains the code for tic tac toe in python.
-hope this is helpful :)
+A classic cli TicTacToe for beginners. The code is easy to understand yet simple. Enjoy :)
